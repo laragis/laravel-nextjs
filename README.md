@@ -1,2 +1,2 @@
-# Laravel NextJS
+# Laravel API - NextJS
 
