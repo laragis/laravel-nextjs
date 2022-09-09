@@ -1,0 +1,17 @@
+{
+    "name": "laravel-nextjs",
+    "version": "0.0.1",
+    "description": "Laravel NextJS Project",
+    "private": true,
+    "scripts": {
+      "bootstrap": "pnpm install"
+    },
+    "devDependencies": {
+
+    },
+    "author": "Truong Thanh Tung",
+    "license": "MIT",
+    "dependencies": {
+
+    }
+  }
