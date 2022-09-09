@@ -1,1 +1,1 @@
-# laravel-nextjs
+# Laravel NextJS
